@@ -1,0 +1,5 @@
+<resources>
+    <string name="currency_list_title">Kursy walut NBP</string>
+    <string name="no_data">Brak danych</string>
+    <string name="currency_format">%1$.4f zł</string>
+</resources>
